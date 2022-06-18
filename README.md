@@ -1,7 +1,6 @@
-- 👋 ola,seja bem vindo, me chamo @isaacsilveira
-- 👀 tenho interesse em programamar
-- 🌱 estou cursando engenharia de software e estudando python
-- 💞️ busco melhorar minhas skills para trabalhar na area da seguranca
+- 👋 ola,me chamo isaac silveira
+- 👀 tenho interesse em segurança da informação e penteste 
+- 🌱 estou cursando engenharia de software
 - 📫 contato: isaacsilveira7@gmail.com
 <!---
 isaacsilveira/isaacsilveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
