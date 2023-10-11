@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 OPEN TO WORK | <br><br>
+🔭 | <br><br>
 🌱 | <br><br><br>
 ✔ # PYTHON | #SQL |  C# | # HTML | #CSS<br><br>
 🔱CONFORTARE ESTO VIR "1Rs 2,2"
